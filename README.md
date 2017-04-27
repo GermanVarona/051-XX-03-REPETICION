@@ -23,4 +23,4 @@
 ### Algoritmo
 - a,b ∈ R
 
-![P2](https://fotos.subefotos.com/9bc78204e44389ce604786e9ddb60464o.jpg)
+![P3](https://fotos.subefotos.com/8e61b15f910ba10a2df35db5ccb3f889o.jpg)
